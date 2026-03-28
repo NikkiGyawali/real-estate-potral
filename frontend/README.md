@@ -17,3 +17,13 @@ npm run dev
 2. Login
 3. Add favourites
 4. View favourites
+
+## How to Use
+
+- Register a new account from the UI
+- OR use demo credentials below
+
+## Demo Login
+
+Email: admin@gmail.com  
+Password: admin123
